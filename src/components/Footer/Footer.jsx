@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4 mb-4">
-                        <h5 className={styles.footerTitle}>CrediFácil</h5>
+                        <h5 className={styles.footerTitle}>Kismet Credito</h5>
                         <p className={styles.footerText}>
                             Ofrecemos soluciones financieras rápidas y confiables para ayudarte a alcanzar tus metas.
                         </p>
