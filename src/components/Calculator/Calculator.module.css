@@ -1,0 +1,23 @@
+/* src/components/Calculator/Calculator.module.css */
+.calculator {
+    border-radius: 15px;
+    border: none;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.result {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+}
+
+.acceptBtn {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    transition: all 0.3s;
+}
+
+.acceptBtn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
